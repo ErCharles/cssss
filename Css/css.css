@@ -1,0 +1,37 @@
+h1 {
+    color: #F00;
+    font-family: Verdana, Calibri, sans-serif;
+    font-size: 24px;
+}
+
+h2 {
+    color: #A00;
+    font-family: Verdana, Calibri, sans-serif;
+    font-size: 24px;
+}
+p {
+    color: #00F;
+    font-family: Verdana, Calibri, sans-serif;
+    font-size: 16px;
+}
+
+body{
+    background-color: #CFC;
+}
+li{
+    color: #00F;
+    font-family: Verdana, Calibri, sans-serif;
+    font-size: 16px;
+}
+.webeinternet{
+    font-size: 20px;
+    font-weight: bold;
+}
+.datos_lib{
+    color: #060;
+}
+.negritas{
+    color: #FFF;
+    background-color: #000;
+    font-style: italic;
+}
